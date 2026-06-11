@@ -20,4 +20,4 @@ O nome deve seguir o padrão: *identificador da turma + espaço + hífen + espa�
 
 - *Arquivo único:* nomeie o arquivo seguindo o padrão acima e mantenha a extensão original. Exemplo: =T25 - Diana Didatolov.pdf=
   
-- *Múltiplos arquivos:*  crie uma pasta com o nome no padrão acima e adicione todos os arquivos dentro dela, sem necessidade de renomeá-los individualmente.
+- *Múltiplos arquivos:*  crie uma pasta com o nome no padrão acima e adicione todos os arquivos dentro dela, sem necessidade de renomeá-los individualmente. Mesmo assim, certifique-se que os nomes dos arquivos são razoáveis.

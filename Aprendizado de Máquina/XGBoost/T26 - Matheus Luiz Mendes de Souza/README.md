@@ -122,11 +122,11 @@ A Floresta Aleatória apresentou o melhor desempenho entre os modelos avaliados 
 Clone o repositório:
 
 
->git clone <URL_DO_REPOSITORIO>
+>git clone <https://github.com/drcassar/biblioteca_real.git>
 
 Entre no diretório:
 
->cd <NOME_DO_REPOSITORIO>
+>cd biblioteca_real/Aprendizado de Máquina/XGBoost/T26 - Matheus Luiz Mendes de Souza/
 
 Instale as dependências necessárias:
 

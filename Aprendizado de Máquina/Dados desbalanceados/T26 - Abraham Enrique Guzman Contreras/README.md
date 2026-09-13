@@ -7,14 +7,14 @@ Dados Desbalanceados - <i>Como tratar com eles?</i>
 </h1>
 
 <p align="center">
-  <i>Notebbok didático sobre o tratamento de dados deslanceados em problemas de classificação</i><br/>
+  <i>Notebook didático sobre o tratamento de dados deslanceados em problemas de classificação</i><br/>
   Ilum - School of Science | Campinas, 2026
 </p>
 
 
 ## Sobre o repositório
 
-Este repositório contém uma breve introdução sobre o tratamento de dados deslanceados em problemas de classificação.
+Este repositório contém uma breve introdução sobre o tratamento de dados desbalanceados em problemas de classificação.
 
 ## Requisitos para utilizar o repositório
 
@@ -22,7 +22,7 @@ Este repositório contém uma breve introdução sobre o tratamento de dados des
 pip install -U imbalanced-learn
 
 ```
-Para poder utilizar o material contido no repositório é necessário intalar a biblioteca ``imbalanced-learn``
+Para poder utilizar o material contido no repositório é necessário instalar a biblioteca ``imbalanced-learn``
 
 ## Professor
 

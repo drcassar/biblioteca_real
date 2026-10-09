@@ -1,0 +1,8 @@
+glasspy==0.6.0
+joblib==1.5.2
+matplotlib==3.11.2
+mlxtend==0.25.0
+numpy==2.5.3
+pandas==3.0.6
+scikit_learn==1.9.1
+seaborn==0.13.2

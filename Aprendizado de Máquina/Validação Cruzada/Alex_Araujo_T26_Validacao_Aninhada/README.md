@@ -1,6 +1,6 @@
 # Enigma da Esfinge: Validação cruzada aninhada
 
-Esta é a primeira das duas entregas da disciplina de aprendizado de máquina ministrada pelo prof. Dr. Daniel R. Cassar para a turma de 2026 da Ilum escola de ciência. Ela tem como propósito explicar o método da validação cruzada aninhada (VCA, para fins de praticidade), com sua implementação focada em problemas de classificação binária a fim de limitar o escopo do projeto.
+Esta é a primeira das duas entregas da disciplina de aprendizado de máquina ministrada pelo prof. Dr. Daniel R. Cassar para a turma de 2026 da Ilum escola de ciência. Escrita pelo discente Álex V. R. Araujo, ela tem como propósito explicar o método da validação cruzada aninhada (VCA, para fins de praticidade), com sua implementação focada em problemas de classificação binária a fim de limitar o escopo do projeto.
 
 ## Metodologia
 

@@ -2,7 +2,7 @@
 
 Este repositório reúne em um único lugar o material didático produzido pelos estudantes da Ilum Escola de Ciência. Ao longo do curso, os estudantes são convidados a explorar diferentes temas e a consolidar o conhecimento adquirido por meio da criação de materiais didáticos próprios.
 
-O projeto ainda está em fase inicial de implementação. Em breve, este README será atualizado com mais informações.
+Este repositório teve início em 2025 na disciplina de Redes Neurais e Algoritmos Genéticos. Atualmente ele conta com materiais didáticos sobre Aprendizado de Máquina, Redes Neurais e Algoritmos Genéticos.
 
 ** Como submeter seu material didático?
 
